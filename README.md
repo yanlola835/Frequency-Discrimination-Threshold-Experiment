@@ -1,4 +1,12 @@
 # Frequency-Discrimination-Threshold-Experiment
-An experiment for testing your pitch discrimination skills! 
+This project is an experiment designed to test pitch discrimination skills.
 
-Two tones are played. Press 1 or 2 to indicate which tone was a higher frequency. The tones become closer in frequency if you get two consecutive trials correct. After 4 errors, the experiment ends and makes a graph of your correct and incorrect trials.
+## How the Experiment Works
+- Two tones are played on each trial.
+- The participant presses **1** or **2** to indicate which tone has the higher frequency.
+- If the participant answers **two consecutive trials correctly**, the frequency difference between tones becomes smaller.
+- After **four incorrect responses**, the experiment ends.
+- A graph is generated showing correct and incorrect trials over time.
+
+## Purpose
+This experiment adapts difficulty based on participant performance to measure auditory pitch sensitivity.
