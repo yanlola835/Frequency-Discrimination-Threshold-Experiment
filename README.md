@@ -23,4 +23,4 @@ To run the experiment:
 4. Open `Threshold_Experiment.ipynb` using Jupyter Notebook or JupyterLab
 5. Run all cells and follow the on-screen instructions
 
-Audio will play through your computer’s speakers :)
+Audio will play through your computer’s speakers, but headphones are recommended :)
