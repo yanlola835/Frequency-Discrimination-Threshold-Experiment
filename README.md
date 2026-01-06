@@ -9,9 +9,6 @@ This project is an experiment designed to test your pitch discrimination skills!
 - After four incorrect responses, the experiment ends.
 - A graph is generated showing correct and incorrect trials over time.
 
-# Purpose
-This experiment adapts difficulty based on participant performance to measure auditory pitch sensitivity.
-
 # Running the Experiment Locally
 
 This experiment involves audio playback and interactive input, which cannot run directly on GitHub.
